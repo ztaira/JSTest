@@ -1,0 +1,27 @@
+h1 {
+  position: absolute;
+  left: 140px;
+  top: 0px;
+  display: inline-block;
+  
+}
+
+#test_canvas {
+    background: #ffffff;
+}
+
+#bounce_button {
+    position: absolute;
+    top: 20px;
+    left: 400px;
+    padding: 10px;
+    background: rgba(44, 164, 202, 0.3);
+    border: 1px solid rgba(0, 92, 255, 0.8);
+    -webkit-border-radius: 4px;
+            border-radius: 4px;
+}
+
+input {
+    font-weight: bold;
+    padding: 3px 3px 0;
+}
